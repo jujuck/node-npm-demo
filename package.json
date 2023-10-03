@@ -1,0 +1,19 @@
+{
+  "name": "n_import_quoi",
+  "version": "1.25.36",
+  "description": "un truc qui sert juste a une demo wild",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dededeed"
+  ],
+  "type": "module",
+  "author": "Moi",
+  "license": "ISC",
+  "dependencies": {
+    "@monishcm/simple-hello-world-example2": "^1.0.9",
+    "chalk": "^5.3.0"
+  }
+}
